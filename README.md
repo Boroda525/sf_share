@@ -141,3 +141,4 @@ Run containers with blackfire and without xdebug: `make up up-blackfire`
 Then run url for profiling: `docker exec -it semblog_blackfire_1 blackfire curl http://nginx/blog/api/v3/categories`
 # sf_share
 # sf_share
+# sf_share
